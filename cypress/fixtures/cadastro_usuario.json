@@ -1,0 +1,9 @@
+{
+  "nomeUsuario": "TESTE AUTOMACAO",
+  "emailUsuario": "testeautomacao@cypress.io",
+  "senhaUsuario": "testeautomacao123",
+  "MensagemSucesso": "Cadastro realizado!",
+  "MensagemErro": "O campo nome deve ser prenchido",
+  "MensagemErro2": "O campo e-mail deve ser prenchido corretamente",
+  "MensagemErro3": "O campo senha deve ter pelo menos 6 dígitos"
+}
