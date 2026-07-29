@@ -42,7 +42,7 @@ export default {
 
     PreencherCampoEmail(email) {
         cy.get(elementos_cadastro_usuario.inputs.email)
-            .type(email)
+            .type(emai)
     },
 
     PreencherCampoSenha(senha) {
