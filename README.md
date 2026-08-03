@@ -7,26 +7,6 @@ Cypress — framework de testes E2E
 cypress-mochawesome-reporter — geração de relatórios HTML
 GitHub Actions — execução automática dos testes em pipeline CI
 
-📁 Estrutura do projeto
-cypress/
-├── e2e/
-│   
-├── login.cy.js                  
-│   
-└── cadastro_usuario.cy.js      
-├── fixtures/
-│   
-├── login.json                   
-│   
-└── cadastro_usuario.json       
-└── support/
-    ├── commands.js                  
-    ├── e2e.js                       
-    └── pages/
-        ├── home_page.js            
-        ├── login_page.js            
-        └── cadastro_usuario_page.js 
-
 ✅ Cenários cobertos
 Login
 Login realizado com sucesso
