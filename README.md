@@ -10,18 +10,18 @@ GitHub Actions — execução automática dos testes em pipeline CI
 📁 Estrutura do projeto
 cypress/
 ├── e2e/
-│   ├── login.cy.js                  # Testes do fluxo de login
-│   └── cadastro_usuario.cy.js       # Testes do fluxo de cadastro
+│   ├── login.cy.js                  
+│   └── cadastro_usuario.cy.js      
 ├── fixtures/
-│   ├── login.json                   # Massa de dados para login
-│   └── cadastro_usuario.json        # Massa de dados para cadastro
+│   ├── login.json                   
+│   └── cadastro_usuario.json       
 └── support/
-    ├── commands.js                  # Comandos customizados do Cypress
-    ├── e2e.js                       # Configurações globais
+    ├── commands.js                  
+    ├── e2e.js                       
     └── pages/
-        ├── home_page.js             # Ações da página inicial
-        ├── login_page.js            # Ações da página de login
-        └── cadastro_usuario_page.js # Ações da página de cadastro
+        ├── home_page.js            
+        ├── login_page.js            
+        └── cadastro_usuario_page.js 
 
 ✅ Cenários cobertos
 Login
